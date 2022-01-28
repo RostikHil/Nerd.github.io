@@ -1,0 +1,20 @@
+.brow-up {
+    display: flex;
+}
+
+.catalog-site {
+    display: flex;
+    flex-wrap: wrap;
+    width: 760px;
+    
+    justify-content: space-between;
+
+    list-style: none;
+}
+
+/* .catalog-list {
+    display: flex;
+
+    width: 760px;
+    list-style: none;
+} */
